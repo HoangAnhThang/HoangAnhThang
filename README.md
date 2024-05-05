@@ -4,7 +4,6 @@
 
 - 📫 How to reach me
     +https://www.facebook.com/hoaangaanhthaang/
-    +hoanganhthang204@gmail.com
   
 <!---
 HoangAnhThang/HoangAnhThang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
